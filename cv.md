@@ -47,3 +47,10 @@ My desire to engage in programming is absolutely sincere and irresistible.   I w
 + Russian - Intermediate
 + English level - A2 (B1 in process…)
 
+## Code example
+
+```
+function solution(str){
+  return str.split('').reverse().join('');  
+}
+```
